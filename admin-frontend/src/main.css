@@ -1,0 +1,19 @@
+.navStyle{
+    background-color: #f2f2f2;
+    width: 100%;
+    padding: 5px 3px;
+}
+
+th,td{
+    padding: 8px 10px;
+}
+
+tbody tr{
+    border-bottom: 1px solid #bebebe;
+}
+
+.authStyle{
+    text-decoration: underline;
+    color: red;
+    transition: 0.1s;
+}
